@@ -7,7 +7,10 @@ export default function Document() {
         <meta property="fc:frame" content="vNext" />
         <meta property="fc:frame:image" content="/image.svg"/>
         <meta property="og:image" content="/image.svg"/>
-        <meta property="fc:frame:button:1" content="Coucou"/>
+        <meta property="fc:frame:button:1" content="Team A"/>
+        <meta property="fc:frame:button:2" content="Team B"/>
+        <meta property="fc:frame:button:2" content="Summary"/>
+        <meta property="fc:frame:button:2" content="Exit"/>
       </Head>
       <body>
         <Main />
